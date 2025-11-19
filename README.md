@@ -1,4 +1,48 @@
-## Hi there 👋
+## Hazzy Developement 👋
+
+## 🚀 What I Do
+
+**💻 Developing web applications with modern frameworks**
+
+**🧠 Exploring AI/ML and building smart features**
+
+**🛠️ Automating workflows to boost productivity**
+
+**🎨 Crafting clean, maintainable code with a focus on good architecture**
+
+## 🧩 Technologies & Tools I Use
+
+**Languages: JavaScript, TypeScript, Python, Go, C#**
+
+**Frontend: React, Next.js, Tailwind**
+
+**Backend: Node.js, Express, Django, FastAPI**
+
+**Databases: PostgreSQL, MongoDB, Redis**
+
+**Tools: Docker, GitHub Actions, Linux, CI/CD**
+
+📈 Current Focus
+
+**I’m currently working on:**
+
+**Improving my backend architecture skills**
+
+**Refining DevOps practices**
+
+**Building open-source projects that help developers**
+
+## 🌱 Learning Journey
+
+**Always learning something new—whether it's a better way to structure code, a new technology, or exploring emerging AI tools.**
+
+## 📬 Get in Touch
+
+**Feel free to reach out or check out my work!**
+
+*✉️ My Email: [tasakoervwer@gmail.com]*
+
+*✉️ Business For Email:[ekremhamedemer@gmail.com]*
 
 <!--
 **hazzydevelopment/hazzydevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
