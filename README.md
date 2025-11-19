@@ -22,7 +22,7 @@
 
 **Tools: Docker, GitHub Actions, Linux, CI/CD**
 
-📈 Current Focus
+## 📈 Current Focus
 
 **I’m currently working on:**
 
