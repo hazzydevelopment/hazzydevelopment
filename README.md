@@ -44,9 +44,6 @@
 
 *✉️ Business For Email:[ekremhamedemer@gmail.com]*
 
-![Banner](![Uploading image.png…]()
-)
-
 <!--
 **hazzydevelopment/hazzydevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
